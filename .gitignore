@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+/demo-valid/
+/demo-invalid/
+.DS_Store

@@ -1,0 +1,3 @@
+path,sample_rate,channels,bit_depth
+ui_confirm.wav,48000,1,16
+ui_cancel.wav,48000,1,16
